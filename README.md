@@ -1,2 +1,3 @@
 # training
-Trying to make conflicts
+Trying to make conflicts  
+i'm making changes.
